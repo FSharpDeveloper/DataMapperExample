@@ -1,0 +1,12 @@
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\bin\Debug\UtilisationDesActions.exe.config
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\bin\Debug\UtilisationDesActions.exe
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\bin\Debug\UtilisationDesActions.pdb
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.csprojResolveAssemblyReference.cache
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.Employee.resources
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.Properties.Resources.resources
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.csproj.GenerateResource.Cache
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.exe
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.pdb
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.EmployeeAvecFuncs.resources
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.EmployeeAvecActions.resources
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\UtilisationDesActions\obj\Debug\UtilisationDesActions.EmployeeAvecFuncsFromDataMapper.resources

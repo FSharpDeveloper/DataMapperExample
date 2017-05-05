@@ -1,0 +1,12 @@
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\obj\Debug\FSharpEmployee.fsprojResolveAssemblyReference.cache
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\FSharpEmployee.exe.config
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\FSharpEmployee.XML
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\FSharpEmployee.exe
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\FSharpEmployee.pdb
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\DataMapper.dll
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\FSharp.Core.dll
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\System.ValueTuple.dll
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\DataMapper.pdb
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\bin\Debug\FSharp.Core.xml
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\obj\Debug\FSharpEmployee.exe
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\FSharpEmployee\obj\Debug\FSharpEmployee.pdb

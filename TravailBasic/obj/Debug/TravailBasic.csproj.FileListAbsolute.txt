@@ -1,0 +1,9 @@
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\bin\Debug\TravailBasic.exe.config
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\bin\Debug\TravailBasic.exe
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\bin\Debug\TravailBasic.pdb
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\obj\Debug\TravailBasic.csprojResolveAssemblyReference.cache
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\obj\Debug\TravailBasic.Employee.resources
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\obj\Debug\TravailBasic.Properties.Resources.resources
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\obj\Debug\TravailBasic.csproj.GenerateResource.Cache
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\obj\Debug\TravailBasic.exe
+c:\users\mouadcherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\TravailBasic\obj\Debug\TravailBasic.pdb

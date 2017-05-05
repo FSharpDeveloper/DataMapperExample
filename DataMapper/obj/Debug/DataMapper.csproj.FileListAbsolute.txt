@@ -1,0 +1,5 @@
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\DataMapper\bin\Debug\DataMapper.dll
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\DataMapper\bin\Debug\DataMapper.pdb
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\DataMapper\obj\Debug\DataMapper.dll
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\DataMapper\obj\Debug\DataMapper.pdb
+C:\Users\MouadCherkaoui\documents\visual studio 2017\Projects\Patterns.DataMapper\DataMapper\obj\Debug\DataMapper.csprojResolveAssemblyReference.cache
